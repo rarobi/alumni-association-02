@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-8 m-auto text-center">
                     <div class="page-title-content">
-                        <h1 class="h2">News &amp;Notices</h1>
+                        <h1 class="h2">News &amp; Notices</h1>
 
                         <a href="#page-content-wrap" class="btn btn-brand smooth-scroll">Check out <i class="fa fa-chevron-circle-right"></i></a>
                     </div>
@@ -27,7 +27,7 @@
                     <div class="col-lg-12">
                         <div class="blog-page-contant-start">
                             <div class="row">
-@foreach($notices as $notice)
+                            @foreach($notices as $notice)
                                 <!--== Single Blog Post start ==-->
                                 <div class="col-lg-3 col-md-6">
                                     <article class="single-blog-post">
@@ -42,14 +42,14 @@
                                                     </div>
                                                     <div class="author-info">
 
-                                                        <p>2 hours Ago</p>
+                                                        <p>{{ now()->diffInDays($notice->created_at) }} days ago</p>
                                                     </div>
                                                 </a>
                                                 <div class="like-comm pull-right">
 
                                                 </div>
                                             </figcaption>
-                                        </figure>
+                                            </figure>
 
                                         <div class="blog-content">
                                             <h3><a href="/news-details/{{$notice->id}}"> {!! str_limit($notice->title,$limit = 50, $end = '...') !!}</a></h3>

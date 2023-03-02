@@ -127,7 +127,8 @@
                                     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button">Career Center</a>
                                     <ul  class="dropdown-menu">
                                         <li class="nav-item"><a class="nav-link" href="/internships">Internships</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/jobs">Job opportunities</a></li>
+                                        <!-- <li class="nav-item"><a class="nav-link" href="/jobs">Job opportunities</a></li> -->
+                                        <li class="nav-item"><a class="nav-link" href="https://nstu.edu.bd/job.html" target="_blank">Job opportunities</a></li>
 
                                     </ul>
                                 </li>
@@ -224,7 +225,7 @@
                             <ul class="footer-list clearfix">
                                 <li><a href="#">Home</a></li>
                                 <li><a href="#">Student Portal</a></li>
-                                <li><a href="#">Elearning</a></li>
+                                <li><a href="#">e-Learning</a></li>
                                 <li><a href="#">FAQ</a></li>
                                 <li><a href="#">Support</a></li>
                             </ul>

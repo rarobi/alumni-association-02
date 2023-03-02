@@ -151,7 +151,7 @@
 
                             <ul>
                                 <li>
-                                    a). To promote social and intellectual interaction between Dedan Kimathi University and the Alumni and also within the current students.
+                                    a). To promote social and intellectual interaction between Noakhali Science and Technology University and the Alumni and also within the current students.
                                     <p></p>
                                     b).  To contribute to the growth of University by participating in development projects.
                                     <p></p>
@@ -159,7 +159,7 @@
                                     <p></p>
                                     d). To recognize and support scholarship and academic excellence of University and of the members.
                                     <p></p>
-                                    e). To encourage, develop and maintain academic and social traditions unique to Dedan Kimathi University of Technology.
+                                    e). To encourage, develop and maintain academic and social traditions unique to Noakhali Science and Technology University of Technology.
                                     <p></p>
                                     f). To establish collaborative links other Alumni bodies and organizations in and outside Kenya.
                                     <p></p>
@@ -202,7 +202,7 @@
                         <h4 class="text-center">Vision</h4>
                         <hr>
                         <p>
-                            The Directorate serves present and future alumni and the University community by working to develop viable avenues for successful activities that would support the University’s vision to be a dynamic, inclusive and competitive center for excellence. It strives to be an effective partner in the realization of the goals cherished by Dedan Kimathi University of Technology and its former students.
+                            The Directorate serves present and future alumni and the University community by working to develop viable avenues for successful activities that would support the University’s vision to be a dynamic, inclusive and competitive center for excellence. It strives to be an effective partner in the realization of the goals cherished by Noakhali Science and Technology University of Technology and its former students.
                         </p>
                     </div>
                 </div>
@@ -218,7 +218,7 @@
                         <h4 class="text-center">Mission</h4>
                         <hr>
                         <p>
-                            To mobilize the alumni and well-wishers to support the welfare and progress of Dedan Kimathi University of Technology and to participate in the enhancement and improvement of intellectual and material well-being of Dedan Kimathi University of Technology community including fostering close friendship and professional relations between alumni and the university.
+                            To mobilize the alumni and well-wishers to support the welfare and progress of Noakhali Science and Technology University of Technology and to participate in the enhancement and improvement of intellectual and material well-being of Noakhali Science and Technology University of Technology community including fostering close friendship and professional relations between alumni and the university.
                         </p>
                     </div>
                 </div>
